@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-https://user-images.githubusercontent.com/106632813/197592664-eea3c95b-5e39-4081-968b-f96d045cc8a0.mp4
+![Sergio_Sánchez__1__AdobeExpress](https://user-images.githubusercontent.com/106632813/197593231-c0c9fe4d-aa5a-4f6f-ae6e-fc4a2e9f7f45.gif)
+
 
 
 <!--
