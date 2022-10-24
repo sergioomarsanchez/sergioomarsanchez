@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on my Portfolio in React js :construction: :construction:
+- 🔭 I’m currently working on my :construction: Portfolio in React js :construction:
 
 - 📫 How to reach me: sanchez.omar.sergio@gmail.com or www.linkedin.com/in/sergio-omar-sanchez-6ba362104
 <a></a>
