@@ -36,7 +36,7 @@
   
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
 <!--
 **sergioomarsanchez/sergioomarsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
