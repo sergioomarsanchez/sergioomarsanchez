@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on my Portfolio in React js
 
 - 📫 How to reach me: sanchez.omar.sergio@gmail.com
+                      www.linkedin.com/in/sergio-omar-sanchez-6ba362104
 
 - 💬 Ask me about Javascript, CSS, HTML, Reacjs, Redux, Nodejs, MongoDB, PostgreSQL, Express, Git, Github, Api's, Selling and Purchasing.
 
