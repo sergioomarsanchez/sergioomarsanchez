@@ -2,7 +2,17 @@
 
 ![Sergio_Sánchez__1__AdobeExpress](https://user-images.githubusercontent.com/106632813/197593231-c0c9fe4d-aa5a-4f6f-ae6e-fc4a2e9f7f45.gif)
 
+<h2 align="center"> About me </h2>
 
+Who am I?
+I am a Full Stack Developer in search of my first work experience as such, but this does not mean I have no experience.
+With a bachelor's degree in Management and Purchasing/Sales background, you will be hiring a great team player and leader with an excellent customer-oriented mindset.
+I also did some of my first steps in IT with an Uncompleted System Analyst in IES Siglo XXI now I can say it came full circle with Henry's Bootcamp.
+
+Why IT?
+Even with some interesting offers in positions related to sales and purchasing, I could not find the same excitement as I get in coding and developing web apps like Moviefy+(final project in Henry).
+You can find pinned here both my PI and PF of Henry. The PF is divided in Back and Frontend
+Please, if you have any question or inquery, contact me...
 
 - 🔭 I’m currently working on my :construction: Portfolio in React js :construction:
 
