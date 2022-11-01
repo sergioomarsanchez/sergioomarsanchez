@@ -14,10 +14,12 @@ Even with some interesting offers in positions related to sales and purchasing, 
 You can find pinned here both my PI and PF of Henry. The PF is divided in Back and Frontend
 Please, if you have any question or inquery, contact me...
 
-- 🔭 I’m currently working on my :construction: Portfolio in React js :construction:
+- 🔭 I’m currently working on my: Learning Docker
 
-- 📫 How to reach me: sanchez.omar.sergio@gmail.com or www.linkedin.com/in/sergio-omar-sanchez-6ba362104
-<a></a>
+- Protfolio, DONE!: Check it out <a href="https://heartfelt-dusk-686f25.netlify.app/">Here</a> 
+
+- 📫 How to reach me: sanchez.omar.sergio@gmail.com or <a href="https://www.linkedin.com/in/sergio-omar-sanchez-6ba362104">In LinkedIn</a> 
+
 - 💬 Ask me about Javascript, CSS, HTML, Reacjs, Redux, Nodejs, MongoDB, PostgreSQL, Express, Git, Github, Api's, Selling and Purchasing.
 
 - ⚡ Fun fact: I sing and play guitar, I used to be part of 2 different rock bands.
