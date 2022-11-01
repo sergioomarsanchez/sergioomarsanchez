@@ -1,7 +1,8 @@
 <h1 align="center"> Welcome to my Github </h1>
 
-Check out my new Logo ![logo_white_large](https://user-images.githubusercontent.com/106632813/199260866-aa9591a3-449d-4eb7-a68a-c8bf45b5bc72.png)
+Check out my new Logo 
 
+![logo_small](https://user-images.githubusercontent.com/106632813/199261220-c7d1c70a-f29f-42e4-aa69-4945dccb5d50.png)
 
 ![Sergio_Sánchez__1__AdobeExpress](https://user-images.githubusercontent.com/106632813/197593231-c0c9fe4d-aa5a-4f6f-ae6e-fc4a2e9f7f45.gif)
 
