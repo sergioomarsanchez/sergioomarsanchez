@@ -18,7 +18,7 @@ Please, if you have any question or inquery, contact me...
 
 - 🌱 I’m currently learning: Docker
 
-- Protfolio, DONE!: Check it out <a href="https://heartfelt-dusk-686f25.netlify.app/">Here</a> 
+- Protfolio, DONE!: Check it out <a href="https://sergioomarsanchez.netlify.app/">Here</a> 
 
 - 📫 How to reach me: sanchez.omar.sergio@gmail.com or in <a href="https://www.linkedin.com/in/sergio-omar-sanchez-6ba362104">LinkedIn</a> 
 
