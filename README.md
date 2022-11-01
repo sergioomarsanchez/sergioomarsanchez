@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my Github </h1>
 
-![Sergio Sánchez](https://user-images.githubusercontent.com/106632813/199263049-fccce21d-8174-4407-8cf5-ce0518f6d7bb.gif)
+![Sergio Sánchez (2)](https://user-images.githubusercontent.com/106632813/199268637-fffbd6f5-807f-4548-9076-32d0262cee52.gif)
 
 
 <h2 align="center"> About me </h2>
