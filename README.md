@@ -1,10 +1,7 @@
 <h1 align="center"> Welcome to my Github </h1>
 
-Check out my new Logo 
+![Sergio Sánchez](https://user-images.githubusercontent.com/106632813/199263049-fccce21d-8174-4407-8cf5-ce0518f6d7bb.gif)
 
-![logo_small](https://user-images.githubusercontent.com/106632813/199261220-c7d1c70a-f29f-42e4-aa69-4945dccb5d50.png)
-
-![Sergio_Sánchez__1__AdobeExpress](https://user-images.githubusercontent.com/106632813/197593231-c0c9fe4d-aa5a-4f6f-ae6e-fc4a2e9f7f45.gif)
 
 <h2 align="center"> About me </h2>
 
@@ -18,11 +15,12 @@ Even with some interesting offers in positions related to sales and purchasing, 
 You can find pinned here both my PI and PF of Henry. The PF is divided in Back and Frontend
 Please, if you have any question or inquery, contact me...
 
-- 🔭 I’m currently working on my: Learning Docker
+
+- 🌱 I’m currently learning: Docker
 
 - Protfolio, DONE!: Check it out <a href="https://heartfelt-dusk-686f25.netlify.app/">Here</a> 
 
-- 📫 How to reach me: sanchez.omar.sergio@gmail.com or <a href="https://www.linkedin.com/in/sergio-omar-sanchez-6ba362104">In LinkedIn</a> 
+- 📫 How to reach me: sanchez.omar.sergio@gmail.com or in <a href="https://www.linkedin.com/in/sergio-omar-sanchez-6ba362104">LinkedIn</a> 
 
 - 💬 Ask me about Javascript, CSS, HTML, Reacjs, Redux, Nodejs, MongoDB, PostgreSQL, Express, Git, Github, Api's, Selling and Purchasing.
 
@@ -49,7 +47,7 @@ Please, if you have any question or inquery, contact me...
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
