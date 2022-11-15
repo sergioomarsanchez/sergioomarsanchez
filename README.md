@@ -16,7 +16,7 @@ You can find pinned here both my PI and PF of Henry. The PF is divided in Back a
 Please, if you have any question or inquery, contact me...
 
 
-- 🌱 I’m currently learning: Nextjs
+- 🌱 I’m currently learning: Nextjs - creating a pizza app and a my finances app
 
 - Protfolio, DONE!: Check it out <a href="https://sergioomarsanchez.netlify.app/">Here</a> 
 
