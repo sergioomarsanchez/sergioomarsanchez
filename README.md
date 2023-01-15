@@ -16,13 +16,13 @@ You can find pinned here both my PI and PF of Henry. The PF is divided in Back a
 Please, if you have any question or inquery, contact me...
 
 
-- 🌱 I’m currently learning: Nextjs - creating a pizza app and a my finances app
+- 🌱 I’m currently learning: React Native and creating a "my finances" app
 
-- Protfolio, DONE!: Check it out <a href="https://sergioomarsanchez.netlify.app/">Here</a> 
+- Protfolio, and Pizza app DONE!: Check it out <a href="https://sergioomarsanchez.netlify.app/">Here</a> 
 
 - 📫 How to reach me: sanchez.omar.sergio@gmail.com or in <a href="https://www.linkedin.com/in/sergio-omar-sanchez-6ba362104">LinkedIn</a> 
 
-- 💬 Ask me about Javascript, CSS, HTML, Reacjs, Redux, Nodejs, MongoDB, PostgreSQL, Express, Git, Github, Api's, Selling and Purchasing.
+- 💬 Ask me about Javascript, CSS, HTML, Sass, Nodejs, Reacjs, Redux, Nodejs, MongoDB, PostgreSQL, Express, Git, Github, Api's, Nextjs, Selling and Purchasing.
 
 - ⚡ Fun fact: I sing and play guitar, I used to be part of 2 different rock bands.
 
