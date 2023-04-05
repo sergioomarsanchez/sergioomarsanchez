@@ -16,9 +16,9 @@ You can find pinned here both my PI and PF of Henry. The PF is divided in Back a
 Please, if you have any question or inquery, contact me...
 
 
-- 🌱 I’m currently learning: React Native and creating a "my finances" app
+- 🌱 I’m currently learning: Python and creating a "my fin" app is done and deployed here <a href="https://myfin-sergioomarsanchez.vercel.app/">Here</a> working on responsive
 
-- Protfolio, and Pizza app DONE!: Check it out <a href="https://sergioomarsanchez.netlify.app/">Here</a> 
+- Protfolio, and Pizza app DONE!: Check them out <a href="https://sergioomarsanchez.netlify.app/">Here</a> 
 
 - 📫 How to reach me: sanchez.omar.sergio@gmail.com or in <a href="https://www.linkedin.com/in/sergio-omar-sanchez-6ba362104">LinkedIn</a> 
 
@@ -39,7 +39,9 @@ Please, if you have any question or inquery, contact me...
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>  
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+
+<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="60" height="60"/> </a></p>
 
 <!--
 **sergioomarsanchez/sergioomarsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
